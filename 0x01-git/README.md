@@ -1,4 +1,5 @@
 My second readme
+
 Created a new branch "update_script"
 Created an empty file named bash/98
 Updated the file bash/alx by replacing echo "ALX" with echo "ALX School"
